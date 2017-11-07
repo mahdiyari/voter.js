@@ -1,5 +1,6 @@
 # voter.js
 Discord Auto Upvote Nodejs Bot for Steemit.com
+by [@mahdiyari](https://steemit.com/@mahdiyari), made with love for steemit users.
 ***
 You can Find All Instructions here:
 1. [Complete Guide to Creating Discord Auto Upvote Bot by Javascript.](https://steemit.com/dev/@mahdiyari/complete-guide-to-creating-discord-auto-upvote-bot-by-javascript)
